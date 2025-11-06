@@ -19,6 +19,8 @@
 
 **1．建设清单**
 
+<img width="1840" height="614" alt="image" src="https://github.com/user-attachments/assets/8888a5bc-25a1-49b4-9d91-de64a397d2c1" />
+
 <img width="925" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4c30b2a-1cb7-452f-9079-86111187c3d7" />
 
 **2．系统截图**
@@ -49,6 +51,8 @@ Official website:https://www.marspal.com
 #### System functions
 
 **1. Construction List**
+
+<img width="1840" height="614" alt="image" src="https://github.com/user-attachments/assets/99b4ccc9-69cb-4cea-b8da-6c0014d9794a" />
 
 <img width="925" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4c30b2a-1cb7-452f-9079-86111187c3d7" />
 
